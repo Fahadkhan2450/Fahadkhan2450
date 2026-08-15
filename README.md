@@ -1,5 +1,9 @@
 # About Me:
-# Hi there, I'm Fahad <br><br>🎓 Researcher / Student in Artificial Intelligence & Medical Imaging  <br>🔍 Focused on building deep learning and transformer-based models for disease detection using medical CT/MRI scans  <br> Skilled in Python, PyTorch, TensorFlow, and medical imaging tools  <br> Currently researching a comparative study of CNNs and Transformer models for lung cancer detection   <br> Open to collaboration on research projects in Machine learning.  <br>
+# Hi there, I'm Fahad <br><br> Researcher / Student in Artificial Intelligence & Medical Imaging
+ Focused on developing Deep Learning and Transformer-based models for disease detection using medical CT/MRI scans
+ Skilled in Python, PyTorch, TensorFlow, and medical imaging tools
+ Currently researching a comparative study of CNNs and Transformer models for lung cancer detection
+ Open to collaboration on research projects in Machine Learnin
 
 
 ## 🌐 Socials:
