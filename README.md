@@ -220,6 +220,28 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 
 </td>
 
+<td width="50%" valign="top">
+
+## Autism Prediction System
+
+### Machine Learning Classification & Prediction
+
+An end-to-end machine learning system for predicting autism spectrum disorder using clinical and behavioral features. The project covers data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and deployment.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> **Healthcare AI · Machine Learning · Predictive Analytics**
+
+ [View Project](https://github.com/Fahadkhan2450/Autism-Prediction-Model)
+
+</td>
+
 </tr>
 </table>
 
