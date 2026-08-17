@@ -58,39 +58,55 @@ I enjoy building projects from **data preprocessing and model development to eva
 
 <td width="50%" valign="top">
 
-## Brain Tumor Classification
+<h3>Brain Tumor Classification</h3>
 
-### CNN & VGG16 Transfer Learning
+<h4>CNN & VGG16 Transfer Learning</h4>
 
+<p>
 Deep learning-based brain MRI classification system using a custom CNN and VGG16 transfer learning. Includes image preprocessing, augmentation, model training, fine-tuning, and comprehensive evaluation.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+</p>
 
-> **Medical Imaging · Computer Vision · Transfer Learning**
+<blockquote>
+<b>Medical Imaging · Computer Vision · Transfer Learning</b>
+</blockquote>
 
-🔗 [View Project](https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning)
+<p>
+<a href="https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning">View Project</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Mental Health Classification
+<h3>Mental Health Classification</h3>
 
-### RNN · LSTM · BiLSTM · DistilBERT
+<h4>RNN · LSTM · BiLSTM · DistilBERT</h4>
 
+<p>
 Comparative deep learning study evaluating RNN, LSTM, BiLSTM, and DistilBERT for multi-class mental health text classification using systematic model evaluation and performance comparison.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+</p>
 
->  **NLP · Deep Learning · Transformer Models**
+<blockquote>
+<b>NLP · Deep Learning · Transformer Models</b>
+</blockquote>
 
-🔗 [View Project](https://github.com/Fahadkhan2450/deep-learning-mental-health-classification)
+<p>
+<a href="https://github.com/Fahadkhan2450/deep-learning-mental-health-classification">View Project</a>
+</p>
 
 </td>
 
@@ -100,39 +116,55 @@ Comparative deep learning study evaluating RNN, LSTM, BiLSTM, and DistilBERT for
 
 <td width="50%" valign="top">
 
-## Sleep Disorder Diagnosis
+<h3>Sleep Disorder Diagnosis</h3>
 
-### Optimized Machine Learning Approaches
+<h4>Optimized Machine Learning Approaches</h4>
 
+<p>
 Machine learning-based sleep disorder diagnosis using data preprocessing, exploratory analysis, feature engineering, model comparison, cross-validation, and hyperparameter optimization.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+</p>
 
->  **Healthcare AI · Machine Learning · Predictive Analytics**
+<blockquote>
+<b>Healthcare AI · Machine Learning · Predictive Analytics</b>
+</blockquote>
 
-🔗 [View Project](https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches)
+<p>
+<a href="https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches">View Project</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-##  YOLOv8 Object Detection
+<h3>YOLOv8 Object Detection</h3>
 
-### Computer Vision & OpenCV
+<h4>Computer Vision & OpenCV</h4>
 
+<p>
 Real-time object detection system using YOLOv8 and OpenCV for image and video analysis, including bounding boxes, confidence scores, and visual inference.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Ultralytics-111111?style=flat-square">
+</p>
 
-> **Computer Vision · Object Detection · Deep Learning**
+<blockquote>
+<b>Computer Vision · Object Detection · Deep Learning</b>
+</blockquote>
 
-🔗 [View Project](https://github.com/Fahadkhan2450/Open-CV-Object-Detection)
+<p>
+<a href="https://github.com/Fahadkhan2450/Open-CV-Object-Detection">View Project</a>
+</p>
 
 </td>
 
@@ -142,39 +174,55 @@ Real-time object detection system using YOLOv8 and OpenCV for image and video an
 
 <td width="50%" valign="top">
 
-##  Research Q&A Agent
+<h3>Research Q&A Agent</h3>
 
-### LangGraph & LangChain AI Research Assistant
+<h4>LangGraph & LangChain AI Research Assistant</h4>
 
+<p>
 AI-powered research agent that retrieves information from multiple sources, independently analyzes retrieved content using LLMs, and generates structured evidence-based research responses.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square">
+</p>
 
->  **Generative AI · LLMs · AI Agents · RAG**
+<blockquote>
+<b>Generative AI · LLMs · AI Agents · RAG</b>
+</blockquote>
 
-🔗 [View Project](https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-)
+<p>
+<a href="https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-">View Project</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-##  ETL Data Warehouse
+<h3>ETL Data Warehouse</h3>
 
-### SQL Server & Medallion Architecture
+<h4>SQL Server & Medallion Architecture</h4>
 
+<p>
 End-to-end SQL Server data warehouse implementing Bronze, Silver, and Gold layers with ETL pipelines, data validation, dimensional modeling, and star schema architecture.
+</p>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-4479A1?style=flat-square)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4B5563?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square">
+<img src="https://img.shields.io/badge/ETL-4479A1?style=flat-square">
+<img src="https://img.shields.io/badge/Data%20Warehouse-4B5563?style=flat-square">
+</p>
 
->  **Data Engineering · ETL · Data Warehousing · BI**
+<blockquote>
+<b>Data Engineering · ETL · Data Warehousing · BI</b>
+</blockquote>
 
- [View Project](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)
+<p>
+<a href="https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse">View Project</a>
+</p>
 
 </td>
 
@@ -184,61 +232,116 @@ End-to-end SQL Server data warehouse implementing Bronze, Silver, and Gold layer
 
 <td width="50%" valign="top">
 
-##  Cat vs Dog Classification
+<h3>Cat vs Dog Classification</h3>
 
-### CNN Image Classification using PyTorch
+<h4>CNN Image Classification using PyTorch</h4>
 
+<p>
 Convolutional neural network developed for binary image classification using PyTorch, covering image preprocessing, CNN architecture design, training, validation, and prediction.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+</p>
 
->  **Computer Vision · CNN · Image Classification**
+<blockquote>
+<b>Computer Vision · CNN · Image Classification</b>
+</blockquote>
 
- [View Project](https://github.com/Fahadkhan2450/Cat-And-Dog-Classification-using-CNN)
+<p>
+<a href="https://github.com/Fahadkhan2450/Cat-And-Dog-Classification-using-CNN">View Project</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-##  Rainfall Prediction
+<h3>Rainfall Prediction</h3>
 
-### Machine Learning Prediction System
+<h4>Machine Learning Prediction System</h4>
 
+<p>
 End-to-end rainfall prediction system involving data preprocessing, feature engineering, exploratory data analysis, Random Forest classification, hyperparameter tuning, and model evaluation.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
 
->  **Machine Learning · Predictive Analytics · Deployment**
+<blockquote>
+<b>Machine Learning · Predictive Analytics · Deployment</b>
+</blockquote>
 
-🔗 [View Project](https://github.com/Fahadkhan2450/Rainfall-Prediction-Model)
+<p>
+<a href="https://github.com/Fahadkhan2450/Rainfall-Prediction-Model">View Project</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Autism Prediction System</h3>
+
+<h4>Machine Learning Healthcare Prediction</h4>
+
+<p>
+End-to-end machine learning application for autism prediction involving data preprocessing, feature engineering, model training, evaluation, and deployment through an API-based prediction system.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+<blockquote>
+<b>Healthcare AI · Machine Learning · Model Deployment</b>
+</blockquote>
+
+<p>
+<a href="https://github.com/Fahadkhan2450/Autism-Prediction-Model">View Project</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Autism Prediction System
+<h3>Data Analytics Dashboards</h3>
 
-### Machine Learning Healthcare Prediction
+<h4>Business Intelligence & Data Visualization</h4>
 
-End-to-end machine learning application for autism prediction involving data preprocessing, feature engineering, model training, evaluation, and deployment through an API-based prediction system.
+<p>
+Interactive analytics dashboards developed using SQL, Tableau, and Power BI for analyzing sales performance, customer behavior, product trends, and business KPIs.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+</p>
 
-> **Healthcare AI · Machine Learning · Model Deployment**
+<blockquote>
+<b>Business Intelligence · Data Analytics · Visualization</b>
+</blockquote>
 
- [View Project](https://github.com/Fahadkhan2450/Autism-Prediction-Model)
+<p>
+<a href="#featured-projects">View Projects</a>
+</p>
 
 </td>
 
