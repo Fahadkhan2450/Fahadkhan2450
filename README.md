@@ -53,106 +53,174 @@ I enjoy building projects from **data preprocessing and model development to eva
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <i>A selection of my work across Deep Learning, Computer Vision, Medical AI, NLP, Generative AI, and Data Engineering.</i>
-</p>
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 🧠 Brain Tumor Classification
-**CNN + VGG16 Transfer Learning**
+## 🧠 Brain Tumor Classification
 
-Deep learning-based classification of brain MRI images using a custom CNN and **VGG16 transfer learning**. The project focuses on medical image preprocessing, augmentation, model training, fine-tuning, and evaluation.
+### CNN & VGG16 Transfer Learning
 
-**Domain:** Medical Imaging · Healthcare AI · Computer Vision
+Deep learning-based brain MRI classification system using a custom CNN and VGG16 transfer learning. Includes image preprocessing, augmentation, model training, fine-tuning, and comprehensive evaluation.
 
-**Tech:** `Python` `TensorFlow` `Keras` `CNN` `VGG16` `OpenCV` `Transfer Learning`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning)**
+> 🧬 **Medical Imaging · Computer Vision · Transfer Learning**
 
----
+🔗 [View Project](https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning)
 
-### 🧬 Sleep Disorder Diagnosis
-**Optimized Machine Learning Approaches**
+</td>
 
-Machine learning study for sleep disorder diagnosis using preprocessing, exploratory analysis, feature engineering, model comparison, cross-validation, and hyperparameter optimization.
+<td width="50%" valign="top">
 
-**Domain:** Healthcare AI · Predictive Analytics · Machine Learning
+## 🧠 Mental Health Classification
 
-**Tech:** `Python` `Pandas` `Scikit-Learn` `Random Forest` `XGBoost` `SVM` `Matplotlib` `Seaborn`
+### RNN · LSTM · BiLSTM · DistilBERT
 
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches)**
+Comparative deep learning study evaluating RNN, LSTM, BiLSTM, and DistilBERT for multi-class mental health text classification using systematic model evaluation and performance comparison.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 🧠 Mental Health Text Classification
-**Comparative Study of RNN, LSTM, BiLSTM & DistilBERT**
+> 🔬 **NLP · Deep Learning · Transformer Models**
 
-A comparative deep learning study evaluating **RNN, LSTM, BiLSTM, and DistilBERT** for multi-class mental health text classification.
+🔗 [View Project](https://github.com/Fahadkhan2450/deep-learning-mental-health-classification)
 
-The models are evaluated using accuracy, precision, recall, F1-score, confusion matrices, and multi-class ROC-AUC analysis.
+</td>
 
-**Domain:** NLP · Deep Learning · Transformer Models
+</tr>
 
-**Tech:** `Python` `TensorFlow` `Keras` `RNN` `LSTM` `BiLSTM` `DistilBERT` `Hugging Face`
+<tr>
 
-🔗 **[View Repository](https://github.com/Fahadkhan2450/deep-learning-mental-health-classification)**
+<td width="50%" valign="top">
 
----
+## 😴 Sleep Disorder Diagnosis
 
-### 🔍 YOLOv8 Object Detection
-**Computer Vision & OpenCV**
+### Optimized Machine Learning Approaches
 
-Computer vision project implementing **YOLOv8 and OpenCV** for object detection in images and videos, including bounding boxes, confidence scores, and real-time visualization.
+Machine learning-based sleep disorder diagnosis using data preprocessing, exploratory analysis, feature engineering, model comparison, cross-validation, and hyperparameter optimization.
 
-**Domain:** Computer Vision · Object Detection · Video Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Tech:** `Python` `YOLOv8` `OpenCV` `Ultralytics` `Deep Learning`
+> 🩺 **Healthcare AI · Machine Learning · Predictive Analytics**
 
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Open-CV-Object-Detection)**
+🔗 [View Project](https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches)
 
----
+</td>
 
-### 🤖 Research Q&A Agent
-**LangGraph + LangChain + LLMs**
+<td width="50%" valign="top">
 
-AI-powered research assistant that gathers information from multiple sources, analyzes retrieved content using LLMs, and generates structured evidence-based research responses.
+## 🎯 YOLOv8 Object Detection
 
-**Domain:** Generative AI · LLM Applications · AI Agents
+### Computer Vision & OpenCV
 
-**Tech:** `Python` `LangGraph` `LangChain` `Groq` `SerpAPI` `Wikipedia API` `Reddit API`
+Real-time object detection system using YOLOv8 and OpenCV for image and video analysis, including bounding boxes, confidence scores, and visual inference.
 
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=flat-square)
 
----
+> 👁️ **Computer Vision · Object Detection · Deep Learning**
 
-### 🏗️ ETL Data Warehouse
-**SQL Server + Medallion Architecture**
+🔗 [View Project](https://github.com/Fahadkhan2450/Open-CV-Object-Detection)
 
-End-to-end data warehouse implementing **Bronze, Silver, and Gold layers**, SQL-based ETL pipelines, data validation, dimensional modeling, and star schema architecture.
+</td>
 
-**Domain:** Data Engineering · Data Warehousing · Business Intelligence
+</tr>
 
-**Tech:** `SQL Server` `T-SQL` `ETL` `Medallion Architecture` `Star Schema` `Data Modeling`
+<tr>
 
-🔗 **[View Repository](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)**
+<td width="50%" valign="top">
 
----
+## 🤖 Research Q&A Agent
 
-## 📊 Other Projects
+### LangGraph & LangChain AI Research Assistant
 
-| Project | Domain | Technologies |
-|---|---|---|
-| 🐱 **Cat vs Dog Classification** | Computer Vision | PyTorch · CNN · OpenCV |
-| 🌧️ **Rainfall Prediction** | Machine Learning | Scikit-Learn · Random Forest · FastAPI · Streamlit |
-| 🧩 **Autism Prediction System** | Healthcare AI | Scikit-Learn · Random Forest · FastAPI |
-| 💼 **WorkHive** | Full Stack Development | React · Node.js · Express · MongoDB |
-| 🚗 **Car Sales Dashboard** | Business Intelligence | Tableau · SQL |
-| 🍕 **Pizza Sales Dashboard** | Business Intelligence | Tableau · SQL Server |
-| 🛒 **Retail Sales Dashboard** | Data Analytics | Tableau · SQL |
+AI-powered research agent that retrieves information from multiple sources, independently analyzes retrieved content using LLMs, and generates structured evidence-based research responses.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
+> 🧠 **Generative AI · LLMs · AI Agents · RAG**
+
+🔗 [View Project](https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏗️ ETL Data Warehouse
+
+### SQL Server & Medallion Architecture
+
+End-to-end SQL Server data warehouse implementing Bronze, Silver, and Gold layers with ETL pipelines, data validation, dimensional modeling, and star schema architecture.
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-4479A1?style=flat-square)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4B5563?style=flat-square)
+
+> 📊 **Data Engineering · ETL · Data Warehousing · BI**
+
+🔗 [View Project](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐱 Cat vs Dog Classification
+
+### CNN Image Classification using PyTorch
+
+Convolutional neural network developed for binary image classification using PyTorch, covering image preprocessing, CNN architecture design, training, validation, and prediction.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+> 🖼️ **Computer Vision · CNN · Image Classification**
+
+🔗 [View Project](https://github.com/Fahadkhan2450/Cat-And-Dog-Classification-using-CNN)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌧️ Rainfall Prediction
+
+### Machine Learning Prediction System
+
+End-to-end rainfall prediction system involving data preprocessing, feature engineering, exploratory data analysis, Random Forest classification, hyperparameter tuning, and model evaluation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+> 🌦️ **Machine Learning · Predictive Analytics · Deployment**
+
+🔗 [View Project](https://github.com/Fahadkhan2450/Rainfall-Prediction-Model)
+
+</td>
+
+</tr>
+</table>
 
 
 ## 🎯 Specialization
