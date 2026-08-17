@@ -1,3 +1,139 @@
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
+
+<h1 align="center">Muhamad Fahad Khan</h1>
+
+<p align="center">
+  <strong>Software Engineering Student · AI/ML Engineer · Deep Learning & Computer Vision Enthusiast</strong>
+</p>
+
+<p align="center">
+  <code>Deep Learning</code>
+  <code>Computer Vision</code>
+  <code>Medical Imaging</code>
+  <code>NLP</code>
+  <code>Generative AI</code>
+  <code>Data Engineering</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fahadkhan2450">
+    <img src="https://img.shields.io/badge/GitHub-Fahadkhan2450-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-E76F51?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Software Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Engineering**.
+
+My work focuses on developing practical machine learning systems and exploring how deep learning can be applied to real-world problems across different domains.
+
+I have worked on projects involving **medical image analysis, computer vision, object detection, natural language processing, predictive modeling, business intelligence, and AI agents**.
+
+I enjoy building projects from **data preprocessing and model development to evaluation, visualization, and deployment-oriented applications**.
+
+---
+
+## 🎯 Domain Specialization
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AI Agents
+- Model Evaluation
+
+</td>
+
+<td width="50%">
+
+### 👁️ Computer Vision
+- Medical Imaging
+- Image Classification
+- Object Detection
+- CNNs
+- Transfer Learning
+- OpenCV
+- YOLO
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 Natural Language Processing
+- Text Classification
+- RNN
+- LSTM
+- BiLSTM
+- Transformers
+- DistilBERT
+
+</td>
+
+<td width="50%">
+
+### 📊 Data & Analytics
+- Data Engineering
+- ETL Pipelines
+- SQL Server
+- Data Warehousing
+- Tableau
+- Business Intelligence
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Areas of Interest
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │      ├── Classification
+        │      ├── Predictive Modeling
+        │      └── Model Optimization
+        │
+        ├── Deep Learning
+        │      ├── CNN
+        │      ├── RNN
+        │      ├── LSTM / BiLSTM
+        │      └── Transformers
+        │
+        ├── Computer Vision
+        │      ├── Medical Imaging
+        │      ├── Image Classification
+        │      ├── Object Detection
+        │      └── OpenCV / YOLO
+        │
+        ├── Natural Language Processing
+        │      ├── Text Classification
+        │      ├── Sequence Modeling
+        │      └── Transformer Models
+        │
+        └── Generative AI
+               ├── LLM Applications
+               ├── RAG
+               └── AI Agents
+
+
 # About Me:
 # Hi there, I'm Fahad <br><br> Researcher / Student in Artificial Intelligence & Medical Imaging <br>
  Focused on developing Deep Learning and Transformer-based models for disease detection using medical CT/MRI scans <br>
