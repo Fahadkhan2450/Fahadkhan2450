@@ -236,7 +236,7 @@ End-to-end machine learning application for autism prediction involving data pre
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
->  **Healthcare AI · Machine Learning · Model Deployment**
+> **Healthcare AI · Machine Learning · Model Deployment**
 
  [View Project](https://github.com/Fahadkhan2450/Autism-Prediction-Model)
 
