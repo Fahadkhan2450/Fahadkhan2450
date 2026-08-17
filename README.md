@@ -39,7 +39,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Software Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Engineering**.
 
@@ -51,14 +51,14 @@ I enjoy building projects from **data preprocessing and model development to eva
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🧠 Brain Tumor Classification
+## Brain Tumor Classification
 
 ### CNN & VGG16 Transfer Learning
 
@@ -69,7 +69,7 @@ Deep learning-based brain MRI classification system using a custom CNN and VGG16
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-> 🧬 **Medical Imaging · Computer Vision · Transfer Learning**
+> **Medical Imaging · Computer Vision · Transfer Learning**
 
 🔗 [View Project](https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning)
 
@@ -77,7 +77,7 @@ Deep learning-based brain MRI classification system using a custom CNN and VGG16
 
 <td width="50%" valign="top">
 
-## 🧠 Mental Health Classification
+## Mental Health Classification
 
 ### RNN · LSTM · BiLSTM · DistilBERT
 
@@ -88,7 +88,7 @@ Comparative deep learning study evaluating RNN, LSTM, BiLSTM, and DistilBERT for
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-> 🔬 **NLP · Deep Learning · Transformer Models**
+>  **NLP · Deep Learning · Transformer Models**
 
 🔗 [View Project](https://github.com/Fahadkhan2450/deep-learning-mental-health-classification)
 
@@ -100,7 +100,7 @@ Comparative deep learning study evaluating RNN, LSTM, BiLSTM, and DistilBERT for
 
 <td width="50%" valign="top">
 
-## 😴 Sleep Disorder Diagnosis
+## Sleep Disorder Diagnosis
 
 ### Optimized Machine Learning Approaches
 
@@ -111,7 +111,7 @@ Machine learning-based sleep disorder diagnosis using data preprocessing, explor
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-> 🩺 **Healthcare AI · Machine Learning · Predictive Analytics**
+>  **Healthcare AI · Machine Learning · Predictive Analytics**
 
 🔗 [View Project](https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches)
 
@@ -119,7 +119,7 @@ Machine learning-based sleep disorder diagnosis using data preprocessing, explor
 
 <td width="50%" valign="top">
 
-## 🎯 YOLOv8 Object Detection
+##  YOLOv8 Object Detection
 
 ### Computer Vision & OpenCV
 
@@ -130,7 +130,7 @@ Real-time object detection system using YOLOv8 and OpenCV for image and video an
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111111?style=flat-square)
 
-> 👁️ **Computer Vision · Object Detection · Deep Learning**
+> **Computer Vision · Object Detection · Deep Learning**
 
 🔗 [View Project](https://github.com/Fahadkhan2450/Open-CV-Object-Detection)
 
@@ -142,7 +142,7 @@ Real-time object detection system using YOLOv8 and OpenCV for image and video an
 
 <td width="50%" valign="top">
 
-## 🤖 Research Q&A Agent
+##  Research Q&A Agent
 
 ### LangGraph & LangChain AI Research Assistant
 
@@ -153,7 +153,7 @@ AI-powered research agent that retrieves information from multiple sources, inde
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-> 🧠 **Generative AI · LLMs · AI Agents · RAG**
+>  **Generative AI · LLMs · AI Agents · RAG**
 
 🔗 [View Project](https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-)
 
@@ -161,7 +161,7 @@ AI-powered research agent that retrieves information from multiple sources, inde
 
 <td width="50%" valign="top">
 
-## 🏗️ ETL Data Warehouse
+##  ETL Data Warehouse
 
 ### SQL Server & Medallion Architecture
 
@@ -172,9 +172,9 @@ End-to-end SQL Server data warehouse implementing Bronze, Silver, and Gold layer
 ![ETL](https://img.shields.io/badge/ETL-4479A1?style=flat-square)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4B5563?style=flat-square)
 
-> 📊 **Data Engineering · ETL · Data Warehousing · BI**
+>  **Data Engineering · ETL · Data Warehousing · BI**
 
-🔗 [View Project](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)
+ [View Project](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)
 
 </td>
 
@@ -184,7 +184,7 @@ End-to-end SQL Server data warehouse implementing Bronze, Silver, and Gold layer
 
 <td width="50%" valign="top">
 
-## 🐱 Cat vs Dog Classification
+##  Cat vs Dog Classification
 
 ### CNN Image Classification using PyTorch
 
@@ -194,15 +194,15 @@ Convolutional neural network developed for binary image classification using PyT
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-> 🖼️ **Computer Vision · CNN · Image Classification**
+>  **Computer Vision · CNN · Image Classification**
 
-🔗 [View Project](https://github.com/Fahadkhan2450/Cat-And-Dog-Classification-using-CNN)
+ [View Project](https://github.com/Fahadkhan2450/Cat-And-Dog-Classification-using-CNN)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌧️ Rainfall Prediction
+##  Rainfall Prediction
 
 ### Machine Learning Prediction System
 
@@ -212,8 +212,9 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-> 🌦️ **Machine Learning · Predictive Analytics · Deployment**
+>  **Machine Learning · Predictive Analytics · Deployment**
 
 🔗 [View Project](https://github.com/Fahadkhan2450/Rainfall-Prediction-Model)
 
@@ -223,13 +224,13 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 </table>
 
 
-## 🎯 Specialization
+## Specialization
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Artificial Intelligence
+### Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Generative AI
@@ -240,7 +241,7 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 
 <td width="50%">
 
-### 👁️ Computer Vision
+###  Computer Vision
 - Medical Imaging
 - Image Classification
 - Object Detection
@@ -255,7 +256,7 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 <tr>
 <td width="50%">
 
-### 📝 Natural Language Processing
+### Natural Language Processing
 - Text Classification
 - RNN
 - LSTM
@@ -267,7 +268,7 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 
 <td width="50%">
 
-### 📊 Data & Analytics
+### Data & Analytics
 - Data Engineering
 - ETL Pipelines
 - SQL Server
@@ -281,7 +282,7 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 
 ---
 
-# 💻 Tech Stack:
+## Technology Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -329,7 +330,7 @@ End-to-end rainfall prediction system involving data preprocessing, feature engi
 
 
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Fahadkhan2450&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Fahadkhan2450&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fahadkhan2450&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
