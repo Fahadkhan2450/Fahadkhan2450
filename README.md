@@ -51,6 +51,110 @@ I enjoy building projects from **data preprocessing and model development to eva
 
 ---
 
+# 🚀 Featured Projects
+
+<p align="center">
+  <i>A selection of my work across Deep Learning, Computer Vision, Medical AI, NLP, Generative AI, and Data Engineering.</i>
+</p>
+
+---
+
+### 🧠 Brain Tumor Classification
+**CNN + VGG16 Transfer Learning**
+
+Deep learning-based classification of brain MRI images using a custom CNN and **VGG16 transfer learning**. The project focuses on medical image preprocessing, augmentation, model training, fine-tuning, and evaluation.
+
+**Domain:** Medical Imaging · Healthcare AI · Computer Vision
+
+**Tech:** `Python` `TensorFlow` `Keras` `CNN` `VGG16` `OpenCV` `Transfer Learning`
+
+🔗 **[View Repository](https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning)**
+
+---
+
+### 🧬 Sleep Disorder Diagnosis
+**Optimized Machine Learning Approaches**
+
+Machine learning study for sleep disorder diagnosis using preprocessing, exploratory analysis, feature engineering, model comparison, cross-validation, and hyperparameter optimization.
+
+**Domain:** Healthcare AI · Predictive Analytics · Machine Learning
+
+**Tech:** `Python` `Pandas` `Scikit-Learn` `Random Forest` `XGBoost` `SVM` `Matplotlib` `Seaborn`
+
+🔗 **[View Repository](https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches)**
+
+---
+
+### 🧠 Mental Health Text Classification
+**Comparative Study of RNN, LSTM, BiLSTM & DistilBERT**
+
+A comparative deep learning study evaluating **RNN, LSTM, BiLSTM, and DistilBERT** for multi-class mental health text classification.
+
+The models are evaluated using accuracy, precision, recall, F1-score, confusion matrices, and multi-class ROC-AUC analysis.
+
+**Domain:** NLP · Deep Learning · Transformer Models
+
+**Tech:** `Python` `TensorFlow` `Keras` `RNN` `LSTM` `BiLSTM` `DistilBERT` `Hugging Face`
+
+🔗 **[View Repository](https://github.com/Fahadkhan2450/deep-learning-mental-health-classification)**
+
+---
+
+### 🔍 YOLOv8 Object Detection
+**Computer Vision & OpenCV**
+
+Computer vision project implementing **YOLOv8 and OpenCV** for object detection in images and videos, including bounding boxes, confidence scores, and real-time visualization.
+
+**Domain:** Computer Vision · Object Detection · Video Analytics
+
+**Tech:** `Python` `YOLOv8` `OpenCV` `Ultralytics` `Deep Learning`
+
+🔗 **[View Repository](https://github.com/Fahadkhan2450/Open-CV-Object-Detection)**
+
+---
+
+### 🤖 Research Q&A Agent
+**LangGraph + LangChain + LLMs**
+
+AI-powered research assistant that gathers information from multiple sources, analyzes retrieved content using LLMs, and generates structured evidence-based research responses.
+
+**Domain:** Generative AI · LLM Applications · AI Agents
+
+**Tech:** `Python` `LangGraph` `LangChain` `Groq` `SerpAPI` `Wikipedia API` `Reddit API`
+
+🔗 **[View Repository](https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-)**
+
+---
+
+### 🏗️ ETL Data Warehouse
+**SQL Server + Medallion Architecture**
+
+End-to-end data warehouse implementing **Bronze, Silver, and Gold layers**, SQL-based ETL pipelines, data validation, dimensional modeling, and star schema architecture.
+
+**Domain:** Data Engineering · Data Warehousing · Business Intelligence
+
+**Tech:** `SQL Server` `T-SQL` `ETL` `Medallion Architecture` `Star Schema` `Data Modeling`
+
+🔗 **[View Repository](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)**
+
+---
+
+## 📊 Other Projects
+
+| Project | Domain | Technologies |
+|---|---|---|
+| 🐱 **Cat vs Dog Classification** | Computer Vision | PyTorch · CNN · OpenCV |
+| 🌧️ **Rainfall Prediction** | Machine Learning | Scikit-Learn · Random Forest · FastAPI · Streamlit |
+| 🧩 **Autism Prediction System** | Healthcare AI | Scikit-Learn · Random Forest · FastAPI |
+| 💼 **WorkHive** | Full Stack Development | React · Node.js · Express · MongoDB |
+| 🚗 **Car Sales Dashboard** | Business Intelligence | Tableau · SQL |
+| 🍕 **Pizza Sales Dashboard** | Business Intelligence | Tableau · SQL Server |
+| 🛒 **Retail Sales Dashboard** | Data Analytics | Tableau · SQL |
+
+---
+
+
+
 ## 🎯 Specialization
 
 <table>
@@ -154,111 +258,6 @@ I enjoy building projects from **data preprocessing and model development to eva
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <i>A selection of my work across Deep Learning, Computer Vision, Medical AI, NLP, Generative AI, and Data Engineering.</i>
-</p>
-
----
-
-### 🧠 Brain Tumor Classification
-**CNN + VGG16 Transfer Learning**
-
-Deep learning-based classification of brain MRI images using a custom CNN and **VGG16 transfer learning**. The project focuses on medical image preprocessing, augmentation, model training, fine-tuning, and evaluation.
-
-**Domain:** Medical Imaging · Healthcare AI · Computer Vision
-
-**Tech:** `Python` `TensorFlow` `Keras` `CNN` `VGG16` `OpenCV` `Transfer Learning`
-
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Brain-Tumor-Classification-CNN-Transfer-Learning)**
-
----
-
-### 🧬 Sleep Disorder Diagnosis
-**Optimized Machine Learning Approaches**
-
-Machine learning study for sleep disorder diagnosis using preprocessing, exploratory analysis, feature engineering, model comparison, cross-validation, and hyperparameter optimization.
-
-**Domain:** Healthcare AI · Predictive Analytics · Machine Learning
-
-**Tech:** `Python` `Pandas` `Scikit-Learn` `Random Forest` `XGBoost` `SVM` `Matplotlib` `Seaborn`
-
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Sleep-disorder-diagnosis-through-optimized-machine-learning-approaches)**
-
----
-
-### 🧠 Mental Health Text Classification
-**Comparative Study of RNN, LSTM, BiLSTM & DistilBERT**
-
-A comparative deep learning study evaluating **RNN, LSTM, BiLSTM, and DistilBERT** for multi-class mental health text classification.
-
-The models are evaluated using accuracy, precision, recall, F1-score, confusion matrices, and multi-class ROC-AUC analysis.
-
-**Domain:** NLP · Deep Learning · Transformer Models
-
-**Tech:** `Python` `TensorFlow` `Keras` `RNN` `LSTM` `BiLSTM` `DistilBERT` `Hugging Face`
-
-🔗 **[View Repository](https://github.com/Fahadkhan2450/deep-learning-mental-health-classification)**
-
----
-
-### 🔍 YOLOv8 Object Detection
-**Computer Vision & OpenCV**
-
-Computer vision project implementing **YOLOv8 and OpenCV** for object detection in images and videos, including bounding boxes, confidence scores, and real-time visualization.
-
-**Domain:** Computer Vision · Object Detection · Video Analytics
-
-**Tech:** `Python` `YOLOv8` `OpenCV` `Ultralytics` `Deep Learning`
-
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Open-CV-Object-Detection)**
-
----
-
-### 🤖 Research Q&A Agent
-**LangGraph + LangChain + LLMs**
-
-AI-powered research assistant that gathers information from multiple sources, analyzes retrieved content using LLMs, and generates structured evidence-based research responses.
-
-**Domain:** Generative AI · LLM Applications · AI Agents
-
-**Tech:** `Python` `LangGraph` `LangChain` `Groq` `SerpAPI` `Wikipedia API` `Reddit API`
-
-🔗 **[View Repository](https://github.com/Fahadkhan2450/Reseacrh-Q-A-Agent-)**
-
----
-
-### 🏗️ ETL Data Warehouse
-**SQL Server + Medallion Architecture**
-
-End-to-end data warehouse implementing **Bronze, Silver, and Gold layers**, SQL-based ETL pipelines, data validation, dimensional modeling, and star schema architecture.
-
-**Domain:** Data Engineering · Data Warehousing · Business Intelligence
-
-**Tech:** `SQL Server` `T-SQL` `ETL` `Medallion Architecture` `Star Schema` `Data Modeling`
-
-🔗 **[View Repository](https://github.com/Fahadkhan2450/ETL_SQL_Data_Warehouse)**
-
----
-
-## 📊 Other Projects
-
-| Project | Domain | Technologies |
-|---|---|---|
-| 🐱 **Cat vs Dog Classification** | Computer Vision | PyTorch · CNN · OpenCV |
-| 🌧️ **Rainfall Prediction** | Machine Learning | Scikit-Learn · Random Forest · FastAPI · Streamlit |
-| 🧩 **Autism Prediction System** | Healthcare AI | Scikit-Learn · Random Forest · FastAPI |
-| 💼 **WorkHive** | Full Stack Development | React · Node.js · Express · MongoDB |
-| 🚗 **Car Sales Dashboard** | Business Intelligence | Tableau · SQL |
-| 🍕 **Pizza Sales Dashboard** | Business Intelligence | Tableau · SQL Server |
-| 🛒 **Retail Sales Dashboard** | Data Analytics | Tableau · SQL |
-
----
-
 
 
 
