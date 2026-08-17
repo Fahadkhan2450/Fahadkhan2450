@@ -317,34 +317,6 @@ End-to-end machine learning application for autism prediction involving data pre
 </p>
 
 </td>
-
-<td width="50%" valign="top">
-
-<h3>Data Analytics Dashboards</h3>
-
-<h4>Business Intelligence & Data Visualization</h4>
-
-<p>
-Interactive analytics dashboards developed using SQL, Tableau, and Power BI for analyzing sales performance, customer behavior, product trends, and business KPIs.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-</p>
-
-<blockquote>
-<b>Business Intelligence · Data Analytics · Visualization</b>
-</blockquote>
-
-<p>
-<a href="#featured-projects">View Projects</a>
-</p>
-
-</td>
-
 </tr>
 </table>
 
