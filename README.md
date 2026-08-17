@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-  📍 Lahore, Pakistan · Cyprus · Saskatoon, Canada (2026)
+  📍 Rawalpindi, Pakistan
   &nbsp; | &nbsp;
-  📧 <a href="mailto:your-email@example.com">your-email@example.com</a>
+  📧 <a href="mailto:malikfahadkhan2450@gmail.com">malikfahadkhan2450@gmail.com</a>
   &nbsp; | &nbsp;
-  📞 +92-XXX-XXXXXXX
+  📞 +92-3216033079
 </p>
 
 ---
@@ -51,7 +51,7 @@ I enjoy building projects from **data preprocessing and model development to eva
 
 ---
 
-## 🎯 Domain Specialization
+## 🎯 Specialization
 
 <table>
 <tr>
