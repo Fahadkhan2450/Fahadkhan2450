@@ -29,6 +29,14 @@
   </a>
 </p>
 
+<p align="center">
+  📍 Lahore, Pakistan · Cyprus · Saskatoon, Canada (2026)
+  &nbsp; | &nbsp;
+  📧 <a href="mailto:your-email@example.com">your-email@example.com</a>
+  &nbsp; | &nbsp;
+  📞 +92-XXX-XXXXXXX
+</p>
+
 ---
 
 ## 👨‍💻 About Me
